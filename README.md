@@ -10,7 +10,7 @@ The Consumer Key and Consumer Secret are removed from the code.
     <string name="com.twitter.sdk.android.CONSUMER_KEY"></string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET"></string>
 
-References
-https://www.youtube.com/watch?v=jWo3MaqsKg4
-https://dev.twitter.com/twitterkit/android/overview
+**References**
+<br>Login with Twitter YouTube https://www.youtube.com/watch?v=jWo3MaqsKg4
+<br>Twitter Android API https://dev.twitter.com/twitterkit/android/overview
 
